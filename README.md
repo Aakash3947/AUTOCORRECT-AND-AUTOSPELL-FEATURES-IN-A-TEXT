@@ -1,4 +1,5 @@
 AUTOCORRECT AND AUTOSPELL FEATURES IN A TEXT
+
 This implementation introduces a streamlined algorithm for identifying and correcting
 misspellings by finding the nearest match from a given word database. By employing
 traditional natural language processing techniques, the algorithm first preprocesses both the
